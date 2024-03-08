@@ -1,0 +1,3 @@
+weight = input("Enter your weight: ")
+
+print(f"Your weight: {weight}kg")
